@@ -6,4 +6,4 @@ Official implementation of "**Global Degradation-Aware Unified Image Restoration
 The source code and pre-trained models will be released soon. Stay tuned!
 
 ## 📧 Contact
-For any questions, please contact (congcong@ynu.edu.cn).
+For any questions, please contact (congcong@stu.ynu.edu.cn).
